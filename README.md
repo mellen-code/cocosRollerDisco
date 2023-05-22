@@ -1,5 +1,5 @@
 # Roller Disco Website: <a href="https://cocosrollerdisco.netlify.app/" target="_blank">Visit Here</a>
-<a href="https://cocosrollerdisco.netlify.app/" target="_blank">
+<a href="https://cocosrollerdisco.netlify.app/" target="_blank"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI0MTM4YjZiNTM0OGVlNjQyNjVkYWE1ZGRmZmY2Yjc1MWNmMjFkZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/h6VXVVTWs3OqWX9AP3/giphy.gif" width="80%" margin="auto" alt="link to website"/>
 </a>
 
