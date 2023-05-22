@@ -1,7 +1,7 @@
-# Website for a Roller Disco: <a href="https://cocosrollerdisco.netlify.app/" target="_blank">Visit Here</a>
-<!-- <a href="https://ariadne-actress-model.netlify.app/" target="_blank">
-<img src="https://media.giphy.com/media/qSBZ0vMEgivr8G24Ny/giphy.gif" width="80%" margin="auto" alt="link to website"/>
-</a> -->
+# Roller Disco Website: <a href="https://cocosrollerdisco.netlify.app/" target="_blank">Visit Here</a>
+<a href="https://cocosrollerdisco.netlify.app/" target="_blank">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI0MTM4YjZiNTM0OGVlNjQyNjVkYWE1ZGRmZmY2Yjc1MWNmMjFkZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/h6VXVVTWs3OqWX9AP3/giphy.gif" width="80%" margin="auto" alt="link to website"/>
+</a>
 
 A fully responsive and engaging site for a local roller disco venue.
 
@@ -22,10 +22,10 @@ Scaling original design to better showcase the actual content. I also enjoyed fo
 
   <tr>
     <td width="50%"  style="align:center;" valign="top">
-<a target="_blank" href="https://mariesmith.me/">mariesmith.me</a>
+<a target="_blank" href="">ConfiDance</a>
         <br />
-      <a target="_blank" href="https://mariesmith.me/">
-            <img src="https://media.giphy.com/media/BXLT2FUtBYmKDGl0nd/giphy.gif" width="100%"  alt="link to my portfolio site"/>
+      <a target="_blank" href="">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM4NmJjM2IyMzIxMGNiZWZiMjMzNmI5NWE4OWIwMTE3ZjhjZGZlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/OXCaDWUVwy5ViA30od/giphy.gif" width="100%"  alt="link to Confidance application"/>
         </a>
     </td>
     <td width="50%" valign="top">
